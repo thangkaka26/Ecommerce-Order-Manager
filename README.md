@@ -3,13 +3,15 @@ Our first Python GUI project was made within 2 weeks with zero experience and kn
 This is the end-of-term project for 'Introduction to Databases' course.
 
 -------
+## Instructor
+Dr. Hung Tran - DATCOM lab, Faculty of Data Science and Artificial Intelligence, National Economic University, Vietnam.
 
-## Team members (Roles are equal, no leader):
+## Team members:
 1. Nguyen Dinh Thang
 2. Bui Tuan Anh
 3. Pham Quang Vu
    
-All members are from Faculty of Data Science and Artificial Intelligence, National Economics University, Vietnam.
+All members are students of Faculty of Data Science and Artificial Intelligence, National Economics University, Vietnam.
 
 -------
 
