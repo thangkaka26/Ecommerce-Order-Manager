@@ -1,4 +1,4 @@
-# E-commerce Order Manager v1.0
+# E-commerce Order Manager
 Our first Python GUI project was made within 2 weeks with zero experience and knowledge of UI/UX design & Application at the beginning.
 This is the end-of-term project for 'Introduction to Databases' course.\
 Youtube: https://youtu.be/vKnxTK62g94
