@@ -1,8 +1,10 @@
 # E-commerce Order Manager v1.0
 Our first Python GUI project was made within 2 weeks with zero experience and knowledge of UI/UX design & Application at the beginning.
 This is the end-of-term project for 'Introduction to Databases' course.
+Youtube: https://youtu.be/vKnxTK62g94
 
 -------
+
 ## Instructor:
 Dr. Hung Tran - DATCOM lab, Faculty of Data Science and Artificial Intelligence, National Economic University, Vietnam.
 
