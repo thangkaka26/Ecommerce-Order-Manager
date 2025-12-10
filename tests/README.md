@@ -1,4 +1,4 @@
-# E-commerce Order Manager v1.0
+# E-commerce Order Manager
 Our first Python GUI project was made within 2 weeks with zero experience and knowledge of UI/UX design & Application at the beginning.
 This is the end-of-term project for 'Introduction to Databases' course.\
 Youtube: https://youtu.be/vKnxTK62g94
@@ -36,4 +36,5 @@ Lauch the GUI:
 ## IMPORTANT:
 The GUI runs in resolution 1600x900 (Does not support dynamic-scaling but can be added in future updates).\
 Make sure your device is set to that resolution at least.
+
 
