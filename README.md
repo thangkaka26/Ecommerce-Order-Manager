@@ -11,7 +11,7 @@ Dr. Hung Tran - DATCOM lab, Faculty of Data Science and Artificial Intelligence,
 ## Team members:
 1. Nguyen Dinh Thang
 2. Bui Tuan Anh
-3. Pham Quang Vu\
+3. Pham Quang Vu\\
 All members are students of Faculty of Data Science and Artificial Intelligence, National Economics University, Vietnam.
 
 -------
