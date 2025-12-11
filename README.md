@@ -6,7 +6,8 @@ Youtube: https://youtu.be/vKnxTK62g94
 -------
 
 ## Instructor:
-Dr. Hung Tran - DATCOM lab, Faculty of Data Science and Artificial Intelligence, National Economic University, Vietnam.
+Dr. Hung Tran - DATCOM lab\
+https://fda.neu.edu.vn/fda-members/ts-tran-hung/
 
 ## Team members:
 1. Nguyen Dinh Thang
